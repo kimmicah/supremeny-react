@@ -1,0 +1,33 @@
+.containerOne {
+  padding-top: 278px;
+  padding-bottom: 55px;
+  text-align: center;
+  font-family: "Courier New", Courier, Monaco;
+  font-size: 11px;
+}
+
+.containerTwo {
+  padding-top: 12.1px;
+  font-family: "Courier New", Courier, Monaco;
+  text-align: left;
+  padding-left: 35.6%;
+  font-size: 11.3px;
+}
+
+.time-block {
+  font-size: 1.09091em;
+  margin: 1.2em 0 0 0;
+
+}
+
+.background {
+  background: url('//d17ol771963kd3.cloudfront.net/assets/bg/4-7b7d14c4197cec08195b0a0792b45fe5.gif') no-repeat center center fixed;
+  background-size: cover;
+  opacity: 1;
+  height: 798px;
+}
+
+#styleA, #styleA1, #styleA2, #styleA3, #styleA4, #styleA5, #styleA6, #styleA7, #styleA8, #styleA9 {
+  height:26.5px;
+  color: white;
+}
